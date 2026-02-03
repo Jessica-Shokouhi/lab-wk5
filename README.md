@@ -7,5 +7,3 @@
 <img width="3199" height="1797" alt="image" src="https://github.com/user-attachments/assets/f126bc35-5305-43dc-ad5e-a9518f87ea9c" />
 
 
-Starter files for the week 5 lab, intro to Packer.
-
