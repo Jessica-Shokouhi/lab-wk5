@@ -1,4 +1,6 @@
 # wk5-Packer-intro-lab-start
+### Jessica Shokouhi, Cole Goernert, Kyle Arriola
+
 
 ### aws instace running packer ami
 <img width="2638" height="1302" alt="image" src="https://github.com/user-attachments/assets/46fe8aa9-4758-488e-a742-6d63518bb184" />
